@@ -25,8 +25,8 @@ R3 = 470R Ω <br/>
 
 <img width="585" height="363" alt="Screenshot 2026-02-12 at 10 59 36 AM" src="https://github.com/user-attachments/assets/dd11b039-a420-4cb7-9a31-435d8170e77f" />
 <br/>
-KiCad PCB File<br/><br/>
+KiCad Schematic <br/><br/>
 <img width="677" height="526" alt="Screenshot 2026-02-12 at 10 59 22 AM" src="https://github.com/user-attachments/assets/85250fbf-674f-4917-b9fc-0b3318267066" /><br/>
-KiCad Schematic<br/>
+KiCad PCB File<br/>
 <br/>
 <br/>
