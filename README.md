@@ -3,10 +3,13 @@
 
 PCB Fish Pendant
 Flashing LED circuit on Printed Circuit Board (PCB)
+<br/>
+<br/>
 ![IMG_6053](https://github.com/user-attachments/assets/a42a46d9-b3d1-4f07-bd13-722f87ccb195)
 <br/>
 <br/>
-Designed on KiCad. Milled on CNC miller (computer numerical control). 
+Designed on KiCad. <br/>
+Milled on CNC miller (computer numerical control). <br/>
 Used TL555 Timer chip and CR2032 coin cell battery for 3.7Volts.
 <br/>
 <br/>
