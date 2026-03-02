@@ -4,7 +4,8 @@
 Text based art on ESP32 with TT-GO display
 <br/>
 <br/>
-![Alt text for the image](/GenerativeArt_Front.HEIC)
+![Front of ESP32 hanging on thread](/GenerativeArt_Front.HEIC)
+![Back of ESP32 with battery on back](/GenerativeArt_Back.HEIC)
 <br/>
 <br/>
 Used:
