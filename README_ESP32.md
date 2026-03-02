@@ -17,6 +17,5 @@ C++ Program: [C++ Program](./main.cpp)
 
 <br/>
 <br/>
-![Video](https://github.com/user-attachments/assets/bac619d0-614e-4557-b49c-06a5930dc7c5)
 <br/>
 <br/>
