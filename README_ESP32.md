@@ -4,7 +4,7 @@
 Text based art on ESP32 with TT-GO display
 <br/>
 <br/>
-![IMG_6053](https://github.com/user-attachments/assets/a42a46d9-b3d1-4f07-bd13-722f87ccb195)
+![Alt text for the image](/GenerativeArt_Front.HEIC)
 <br/>
 <br/>
 Used:
