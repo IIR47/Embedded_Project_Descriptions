@@ -15,7 +15,7 @@ Used:
 ESP32 with TTGO T-display <br/>
 Rechargeable Lithium Polymer Battery (3.7 Volt, 150mAh) <br/>
 USB-C with data connection to flash program onto chip <br/>
-
+<br/>
 C++ Program: [C++ Program](./main.cpp)
 
 <br/>
