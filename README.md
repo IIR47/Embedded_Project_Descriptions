@@ -14,6 +14,7 @@ USB-C cord with data connection<br/>
 Copper tape<br/>
 Foam core<br/>
 Hot glue<br/>
+<br/>
 
 Code:<br/>
 Board Program (C++): mainSerial.cpp <br/>
