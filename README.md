@@ -6,11 +6,6 @@ As the user presses the big copper pad, the computer outputs notes steadily incr
 The alternate mode tests user on pitch matching abilities. It plays a note, they attempt to match it, save the note, and the device caculates the difference in hertz between what they entered and the correct value.
 
 <br/>
-
-![Top of Interactive Instrument](https://github.com/user-attachments/assets/d385a162-8abb-41bd-acd3-65bd94175450)
-![Inside of Interactive Instrument](https://github.com/user-attachments/assets/f0010a2b-d521-4082-9ee8-efd6018a032d)
-
-<br/>
 <br/>
 
 Used:
@@ -20,10 +15,12 @@ USB-C cord with data connection
 Foam core
 
 <br/>
+<br/>
 Code:
 [Board Program (C++)](./mainSerial.cpp)
 [Computer Program (HTML)](./serialAudio.html)
 [Computer Program (Javascript)](./serialAudio.js)
+<br/>
 <br/>
 
 Setup:
@@ -34,5 +31,5 @@ Connect to Board via browser
 
 <br/>
 <br/>
-<br/>
-<br/>
+![Top of Interactive Instrument](https://github.com/user-attachments/assets/d385a162-8abb-41bd-acd3-65bd94175450)
+![Inside of Interactive Instrument](https://github.com/user-attachments/assets/f0010a2b-d521-4082-9ee8-efd6018a032d)
