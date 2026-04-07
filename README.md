@@ -6,15 +6,13 @@ As the user presses the big copper pad, the computer outputs notes steadily incr
 The alternate mode tests user on pitch matching abilities. It plays a note, they attempt to match it, save the note, and the device caculates the difference in hertz between what they entered and the correct value.
 
 <br/>
-<br/>
 
-Used:<br/>
+Materials:<br/>
 ESP32 with TTGO T-display<br/>
 USB-C cord with data connection<br/>
 20 inches solid core wire<br/>
 Foam core
 
-<br/>
 Code:<br/>
 Board Program (C++): mainSerial.cpp <br/>
 Computer Program (HTML): serialAudio.html <br/>
