@@ -1,7 +1,9 @@
 # Memory Instrument
 <br/>
 
-Text based Generative Art on ESP32 with TT-GO display
+An interactive instrument that allows the user to create and save music note by note.
+Alternate mode tests user on pitch matching abilities.
+
 <br/>
 <br/>
 The piece...
