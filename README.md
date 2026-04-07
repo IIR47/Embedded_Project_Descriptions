@@ -9,25 +9,25 @@ The alternate mode tests user on pitch matching abilities. It plays a note, they
 <br/>
 
 Used:
-ESP32 with TTGO T-display
-USB-C cord with data connection
-20 inches solid core wire
+ESP32 with TTGO T-display<br/>
+USB-C cord with data connection<br/>
+20 inches solid core wire<br/>
 Foam core
 
 <br/>
 <br/>
 Code:
-[Board Program (C++)](./mainSerial.cpp)
-[Computer Program (HTML)](./serialAudio.html)
-[Computer Program (Javascript)](./serialAudio.js)
+[Board Program (C++)](./mainSerial.cpp) <br/>
+[Computer Program (HTML)](./serialAudio.html) <br/>
+[Computer Program (Javascript)](./serialAudio.js) <br/>
 <br/>
 <br/>
 
 Setup:
-Flash Board Program onto ESP32
-Keep ESP32 plugged in
-Open Computer Program in browser
-Connect to Board via browser
+Flash Board Program onto ESP32<br/>
+Keep ESP32 plugged in<br/>
+Open Computer Program in browser<br/>
+Connect to Board via browser<br/>
 
 <br/>
 <br/>
