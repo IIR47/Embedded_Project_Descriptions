@@ -32,5 +32,9 @@ Project Blog: https://iir47.github.io
 
 <br/>
 <br/>
+![IMG_8043](https://github.com/user-attachments/assets/ae5da7b6-89f2-4317-aa94-d57c54df3b57)
+![IMG_8084](https://github.com/user-attachments/assets/1215fdd6-a144-4d76-8aa2-5d5aa9d0edb3)
+
+
 ![Top of Interactive Instrument](IMG_8043.jpeg)<br/>
 ![Inside of Interactive Instrument](https://github.com/user-attachments/assets/f0010a2b-d521-4082-9ee8-efd6018a032d)
