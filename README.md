@@ -11,7 +11,9 @@ Materials:<br/>
 ESP32 with TTGO T-display<br/>
 USB-C cord with data connection<br/>
 20 inches solid core wire<br/>
+Copper tape<br/>
 Foam core<br/>
+Hot glue<br/>
 
 Code:<br/>
 Board Program (C++): mainSerial.cpp <br/>
