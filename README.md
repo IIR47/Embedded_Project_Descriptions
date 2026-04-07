@@ -16,9 +16,9 @@ Foam core
 
 <br/>
 Code:<br/>
-[Board Program (C++)](mainSerial.cpp) <br/>
-[Computer Program (HTML)](serialAudio.html) <br/>
-[Computer Program (Javascript)](serialAudio.js) <br/>
+Board Program (C++): mainSerial.cpp <br/>
+Computer Program (HTML): serialAudio.html <br/>
+Computer Program (Javascript): serialAudio.js <br/>
 <br/>
 
 Setup:<br/>
