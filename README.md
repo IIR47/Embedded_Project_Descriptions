@@ -25,6 +25,8 @@ Keep ESP32 plugged in<br/>
 Open Computer Program in browser<br/>
 Connect to Board via browser<br/>
 
+Project Blog: https://iir47.github.io
+
 <br/>
 <br/>
 ![Top of Interactive Instrument](https://github.com/user-attachments/assets/d385a162-8abb-41bd-acd3-65bd94175450)
