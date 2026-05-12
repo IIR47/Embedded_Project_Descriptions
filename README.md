@@ -2,7 +2,7 @@
 <br/>
 
 An interactive instrument that allows the user to create and save music note by note.
-As the user presses the big copper pad, the computer outputs notes steadily increasing in pitch. They can stop at any point, and save the note to a sequence, playback, and erase it.
+As the user presses the big copper pad, the computer outputs notes steadily increasing or decreasing in pitch. They can stop at any point, and save the note to a sequence, playback, and erase it. They can also save two separate melodies and play them both back at the same time, creating harmony.
 The alternate mode tests user on pitch matching abilities. It plays a note, they attempt to match it, save the note, and the device caculates the difference in hertz between what they entered and the correct value.
 
 <br/>
